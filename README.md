@@ -46,10 +46,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=j0hnLennon&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnLennon&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+  <a href="https://github.com/j0hnLennon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0hnLennon&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnLennon&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</div>
 
 ---
 
