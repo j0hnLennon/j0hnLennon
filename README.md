@@ -46,11 +46,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/j0hnLennon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0hnLennon&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnLennon&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  </a>
+  <!-- Estatísticas principais (pode demorar a carregar a primeira vez) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0hnLennon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnLennon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<!-- Alternativa: GitHub Streak (geralmente mais estável) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnLennon&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
