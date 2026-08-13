@@ -12,6 +12,9 @@
   <a href="https://instagram.com/eujohntorres">
     <img src="https://img.shields.io/badge/Instagram-@eujohntorres-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/john-lennon-torres-106a892b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Lennon%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
