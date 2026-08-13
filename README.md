@@ -48,16 +48,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Estatísticas principais (pode demorar a carregar a primeira vez) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0hnLennon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
-  
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnLennon&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</div>
-
-<!-- Alternativa: GitHub Streak (geralmente mais estável) -->
-<div align="center">
+  <!-- Streak (funcionando) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnLennon&theme=tokyonight&hide_border=true"/>
+  
+  <!-- Badges complementares -->
+  <br/>
+  <img src="https://img.shields.io/github/followers/j0hnLennon?label=Seguidores&style=for-the-badge&color=0891b2&logo=github"/>
+  <img src="https://img.shields.io/github/stars/j0hnLennon?label=Estrelas&style=for-the-badge&color=0891b2&logo=github"/>
+  <img src="https://img.shields.io/badge/Repositórios-1-blue?style=for-the-badge&logo=github"/>
+  
+  <!-- Placeholder para quando tiver mais repositórios -->
+  <br/><br/>
+  <sub>📌 Mais estatísticas aparecerão quando você adicionar mais repositórios públicos!</sub>
 </div>
 
 ---
