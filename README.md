@@ -59,7 +59,7 @@
   
   <!-- Placeholder para quando tiver mais repositórios -->
   <br/><br/>
-  <sub>📌 Mais estatísticas aparecerão quando você adicionar mais repositórios públicos!</sub>
+  
 </div>
 
 ---
