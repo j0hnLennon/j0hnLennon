@@ -5,14 +5,14 @@
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/j0hnLennon">
+<p align="center">
+  <a href="https://github.com/j0hnLennon" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/GitHub-j0hnLennon-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/eujohntorres">
+  <a href="https://instagram.com/eujohntorres" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Instagram-@eujohntorres-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/john-lennon-torres-106a892b1/">
+  <a href="https://www.linkedin.com/in/john-lennon-torres-106a892b1/" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-John%20Lennon%20Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
